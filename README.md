@@ -1,42 +1,20 @@
-# Loopy App – Account & Data Deletion
+# Delete Your Loopy Account
 
-If you would like to delete your Loopy account and associated data, please follow the steps below.
+If you would like to delete your Loopy account and associated data, please email:
 
-## How to Request Account Deletion
+sjdanielsen1@gmail.com
 
-1. Open the Loopy app
-2. Go to Profile → Settings
-3. Select "Delete Account"
+Include:
 
-OR
+- Your account email
+- Subject: Delete My Loopy Account
 
-Email us at: support@loopy.app  
-with the subject line: "Delete My Loopy Account"
+We will delete:
 
-Include the email address used to create your account.
+- Your account details
+- Check-in data
+- Notes and logs
 
-## What Data Is Deleted
+We retain no personal data after deletion.
 
-When your account is deleted, we permanently remove:
-
-- Your profile information
-- Email address
-- Check-in history
-- Journal entries and brain dumps
-- Mood and medication tracking data
-- Usage data linked to your account
-
-## Data Retention
-
-Some anonymised technical logs may be retained for up to 90 days for security and compliance purposes.
-
-These logs cannot be linked back to you.
-
-## Processing Time
-
-Deletion requests are processed within 7 business days.
-
----
-
-Loopy is built for ADHDers, by ADHDers.  
-We respect your privacy and your right to control your data.
+Processing time: up to 14 days.
